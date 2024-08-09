@@ -1,0 +1,29 @@
+.head-row{
+    height: 8vh;
+    justify-content: center;
+}
+.head-row .first-head{
+    font-size: small;
+    gap: 50%;
+
+}
+.col-7{
+    gap: 10%;
+    
+}
+.col-12{
+    height: 5vh;
+    padding-left: 60px;
+    font-size: smaller;
+    padding-right: 40px;
+}
+.enter{
+    font-size: smaller;
+} 
+.col-4.bi-cart{
+    margin-right: 10px;
+
+}
+.row-bread{
+    justify-content: flex-end;
+}
